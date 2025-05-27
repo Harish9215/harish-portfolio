@@ -24,6 +24,10 @@ I'm building this site with some awesome modern tools:
 * **My Skills:** A quick rundown of the tech and tools I'm comfortable with.
 * **How to Reach Me:** All the ways you can get in touch.
 
+## License
+
+This project is licensed under the MIT License
+
 ## Getting Started Locally (For Devs & Curious Minds)
 
 Want to run this project on your own machine? Great! Here’s how:
