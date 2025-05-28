@@ -28,6 +28,9 @@ I'm building this site with some awesome modern tools:
 
 Want to run this project on your own machine? Great! Here’s how:
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ### What You'll Need
 
 Make sure you have Node.js and npm installed. You can grab them from [nodejs.org](https://nodejs.org/en/download/).
@@ -58,8 +61,3 @@ Once everything's installed, kick off the development server:
 
 ```bash
 npm start
-
-
-## License
-
-This project is licensed under the MIT License
