@@ -2,8 +2,11 @@ import React from "react";
 
 export default function About() {
   return (
-    <section className="stretch-in" id="about" className="snap-start min-h-screen bg-black text-white p-10 md:p-20">
-      <div className="max-w-5xl mx-auto space-y-10">
+    <section
+      id="about"
+      className="snap-start min-h-screen bg-black text-white flex justify-center items-start py-20 font-sans fade-slide"
+    >
+      <div className="max-w-5xl w-full mx-auto mt-40 px-6 space-y-10">
         <h1 className="text-4xl md:text-5xl font-light text-gray-100 leading-tight">
           I believe in building intelligent, user-driven solutions—where each product is thoughtfully engineered to solve complex problems, automate workflows, and enhance decision-making through AI.
         </h1>

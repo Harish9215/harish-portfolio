@@ -2,9 +2,12 @@ import React from "react";
 
 export default function Experience() {
   return (
-    <section id="experience" className="snap-start min-h-screen bg-black text-white p-10 md:p-20">
+    <section id="experience"
+  className="snap-start min-h-screen bg-black text-white flex justify-center items-start py-20 font-sans fade-slide"
+>
+    <div className="max-w-5xl w-full px-6 space-y-10 mt-20">
       <h2 className="text-3xl font-bold mb-6 text-left text-[#d4af37]">Experience</h2>
-      <div className="space-y-10 px-6 py-4">
+
         <div className="border-b border-gray-700 pb-6">
           <p className="text-gray-400 text-lg">Moxo</p>
           <h3 className="text-3xl md:text-4xl font-bold text-white">Solution Architect</h3>
@@ -21,6 +24,7 @@ export default function Experience() {
             </p>
           </div>
         </div>
+
         <div className="pt-6">
           <p className="text-gray-400 text-lg">IKU</p>
           <h3 className="text-3xl md:text-4xl font-bold text-white">Product Engineer</h3>

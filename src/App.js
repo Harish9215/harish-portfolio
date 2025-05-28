@@ -7,6 +7,7 @@ import Experience from "./sections/Experience";
 import Projects from "./sections/Projects";
 import Skills from "./sections/Skills";
 import Contact from "./sections/Contact"; // Make sure to create this component as well
+import ClickSoundButton from "./components/ClickSoundButton";
 
 export default function App() {
   return (
@@ -53,6 +54,9 @@ export default function App() {
         <Projects />
         <Skills />
         <Contact />
+        <div className="fixed bottom-4 right-4 z-50">
+          <ClickSoundButton />
+        </div>
       </main>
     </div>
   );
