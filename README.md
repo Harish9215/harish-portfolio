@@ -1,4 +1,4 @@
-````md
+
 # 🌐 Harish Mohan – Personal Portfolio
 
 Hey there! Welcome to my personal corner of the web — a portfolio site I'm actively building to showcase my journey, projects, and the things I'm passionate about.
