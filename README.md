@@ -1,7 +1,3 @@
-Here’s a **cleaned-up, professional, and visually engaging `README.md`** for your portfolio repo. It keeps your original tone but improves clarity, formatting, and flow:
-
----
-
 ````md
 # 🌐 Harish Mohan – Personal Portfolio
 
