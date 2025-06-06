@@ -46,7 +46,7 @@ Want to check it out or contribute? Here’s how to get it running on your machi
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Harish9215/harish-portfolio.git
-````
+    ````
 
 2. **Navigate into the folder**
 
@@ -88,10 +88,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🙌 Thanks for Stopping By!
 
 Whether you're a recruiter, fellow developer, or just curious — I appreciate you checking out my work. Feel free to reach out via the contact section on the site or connect with me on [LinkedIn](https://www.linkedin.com/in/harish-mohan/)!
-
-```
-
----
-
-Would you like a **dark-themed badge section** (for GitHub stats, tech stack logos, etc.) added to the top of the README too? I can generate that next.
-```
