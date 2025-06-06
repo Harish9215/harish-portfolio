@@ -18,7 +18,7 @@ export default function Landing() {
   return (
     <section
       id="landing"
-      className="snap-start min-h-screen flex flex-col justify-center items-center bg-black text-white p-8 text-left"
+      className="snap-start min-h-screen flex flex-col justify-center items-center bg-black text-white px-6 md:px-12 text-left"
     >
       <div className="max-w-4xl w-full">
         <h1 className="text-4xl md:text-6xl font-extrabold mb-6">
@@ -28,11 +28,13 @@ export default function Landing() {
           I'm a Data Scientist and Solution Architect with a passion for building smart, scalable systems.
           My work blends automation, machine learning, and full-stack engineering to deliver tools that matter.
         </p>
-        <p className="text-lg text-gray-400 mt-4">
+        <p className="text-lg text-gray-400 mt-6">
           From AI-based document processing to GPT-driven assistants, I explore how technology can create meaningful change.
           Outside of work, I enjoy learning new tech, experimenting with ideas, and helping others solve hard problems.
         </p>
-        <IconButtons />
+        <div className="mt-8">
+          <IconButtons />
+        </div>
       </div>
     </section>
   );

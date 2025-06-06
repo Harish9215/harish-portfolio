@@ -4,9 +4,9 @@ import HomeButton from "./components/HomeButton";
 import Landing from "./sections/Landing";
 import About from "./sections/About";
 import Experience from "./sections/Experience";
-import Projects from "./sections/Projects";
+import Projects from "./sections/Projects"; // <- Updated version with live GitHub fetch
 import Skills from "./sections/Skills";
-import Contact from "./sections/Contact"; // Make sure to create this component as well
+import Contact from "./sections/Contact";
 import ClickSoundButton from "./components/ClickSoundButton";
 
 export default function App() {
@@ -51,7 +51,7 @@ export default function App() {
         <Landing />
         <About />
         <Experience />
-        <Projects />
+        <Projects /> {/* ← Dynamic GitHub Projects */}
         <Skills />
         <Contact />
         <div className="fixed bottom-4 right-4 z-50">
